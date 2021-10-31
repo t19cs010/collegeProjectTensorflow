@@ -5,3 +5,4 @@ Image Classification Project using Inception V3
 2) Reshaping the image
 3) Predicting the image Label
 4) Converting the text to audio message. 
+5) Send the response back to sending device.
